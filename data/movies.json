@@ -1,0 +1,161 @@
+[
+    {
+        "id": 0,
+        "title": "가디언즈 오브 갤럭시: Volume 3",
+        "img": "https://www.themoviedb.org/t/p/original/2LfL0flDTgwJgoEhO9NhDLeDTTK.jpg",
+        "detailImg": "https://www.themoviedb.org/t/p/original/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+        "genre": [
+            "SF",
+            "모험",
+            "액션"
+        ],
+        "story": "‘가모라’를 잃고 슬픔에 빠져 있던 ‘피터 퀼’이 위기에 처한 은하계와 동료를 지키기 위해 다시 한번 가디언즈 팀과 힘을 모으고, 성공하지 못할 경우 그들의 마지막이 될지도 모르는 미션에 나서는 이야기",
+        "released": 2023
+    },
+    {
+        "id": 1,
+        "title": "범죄도시 2",
+        "img": "https://www.themoviedb.org/t/p/original/wxNUnSzuMgsT8DFkZjX9GtfOKJX.jpg",
+        "detailImg": "https://www.themoviedb.org/t/p/original/euLUYGptrghbZssxBcr1lQDzZjd.jpg",
+        "genre": [
+            "액션",
+            "스릴러",
+            "범죄"
+        ],
+        "story": "괴물형사 ‘마석도’(마동석)와 ‘전일만’(최귀화) 반장은 현지 용의자에게서 수상함을 느끼고, 그의 뒤에 무자비한 악행을 벌이는 ‘강해상’(손석구)이 있음을 알게 된다. ‘마석도’와 금천서 강력반은 한국과 베트남을 오가며 역대급 범죄를 저지르는 ‘강해상’을 본격적으로 쫓기 시작하는데... 나쁜 놈들 잡는 데 국경 없다! 통쾌하고 화끈한 범죄 소탕 작전이 다시 펼쳐진다!",
+        "released": 2022
+    },
+    {
+        "id": 2,
+        "title": "주술회전",
+        "img": "https://www.themoviedb.org/t/p/original/pnn223i9v5kfYku6TbqdSbPePJp.jpg",
+        "detailImg": "https://www.themoviedb.org/t/p/original/fgPa2oJD8lbLaTanzlGDd32tqDE.jpg",
+        "genre": [
+            "애니메이션",
+            "판타지",
+            "액션"
+        ],
+        "story": "저주를 없애기 위해 저주가 된 소년의 되돌릴 수 없는 장렬한 이야기를 그린 애니메이션",
+        "released": 2020
+    },
+    {
+        "id": 3,
+        "title": "헤어질 결심",
+        "img": "https://image.tmdb.org/t/p/original/yGXMia1VNEovB7014ldTHwT1r50.jpg",
+        "detailImg": "https://image.tmdb.org/t/p/original/fXmaCa7bE5mp9AMkVT8cKaI5GMK.jpg",
+        "genre": [
+            "스릴러", 
+            "미스터리", 
+            "로맨스"
+        ],
+        "story": "해준 형사가 산에서 추락한 남자 사망 사건을 조사하다가 아내인 서래를 만난다. 서래는 남편의 죽음에 냉정하게 대해 경찰의 의심을 받지만, 해준은 조사를 통해 그녀를 더 알아가면서 사건의 비밀과 서래의 신비로움에 끌리게 된다.",
+        "released": 2022
+    },
+    {
+        "id": 4,
+        "title": "듄",
+        "img": "https://www.themoviedb.org/t/p/original/cDbNAY0KM84cxXhmj8f0dLWza3t.jpg",
+        "detailImg": "https://www.themoviedb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+        "genre": [
+            "모험",
+            "드라마",
+            "SF"
+        ],
+        "story": "10191년, 아트레이데스 가문 후계자인 폴은 시간과 공간을 초월해 과거와 미래를 보는 특별한 능력을 가졌다. 예지된 자로서 그의 운명은 아라키스 행성에 있는 한 여인과 연결되어 있다. 황제의 질투와 귀족들의 반대로 인해 폴과 가문은 아라키스로 향하는 죽음의 길을 걷게 된다.",
+        "released": 2021
+    },
+    {
+        "id": 5,
+        "title": "태어난 김에 세계일주",
+        "img": "https://image.tmdb.org/t/p/original/aPqpj7tU33iJBZdV4bHelkKUAxh.jpg",
+        "detailImg": "https://image.tmdb.org/t/p/original/yuqWyW9zXOn7OxznW53GhsKac52.jpg",
+        "genre": [
+            "예능",
+            "모험"
+
+        ],
+        "story": "태어난 김에 지구 반대편으로 떠난 기안84, 이시언, 빠니보틀! 세 남자의 무계획 현지 밀착 남미 여행기",
+        "released": 2022
+    },
+    {
+        "id": 6,
+        "title": "브레이킹 배드",
+        "img": "https://www.themoviedb.org/t/p/original/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+        "detailImg": "https://www.themoviedb.org/t/p/original/qsYUEXhAI7oFvU4uMpWj1NaNbBK.jpg",
+        "genre": [
+            "범죄",
+            "스릴러",
+            "액션",
+            "드라마"
+        ],
+        "story": "고등학교 화학 교사인 월터 화이트는 50세 생일에 폐암 3기로 진단 받는다. 뇌성마비에 걸린 아들과 임신 중인 아내를 위해 마약 제조자로 동업 제안한 전 제자 제시를 찾아나선다. 월터는 자신의 화학 지식을 활용하여 고순도의 메스암페타민을 제조하는데, 이로써 그의 인생은 예상치 못한 전환점을 맞이하게 된다.",
+        "released": 2008
+    },
+
+    {
+        "id": 7,
+        "title": "토이 스토리 4",
+        "img": "https://www.themoviedb.org/t/p/original/6eTo4SAqsZ8xpGhdeYZYIByV64D.jpg",
+        "detailImg": "https://www.themoviedb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+        "genre": [
+            "애니메이션",
+            "코미디",
+            "판타지",
+            "모험"
+        ],
+        "story": "장난감의 운명을 거부하고 떠난 새 친구 ‘포키’를 찾기 위해 길 위에 나선 ‘우디’는 우연히 오랜 친구 ‘보핍’을 만나고 그녀를 통해 새로운 세상에 눈을 뜨게 된다. 한편, ‘버즈’와 친구들은 사라진 ‘우디’와 ‘포키’를 찾아 세상 밖 위험천만한 모험을 떠나게 되는데…",
+        "released": 2019
+    },
+  
+    {
+        "id": 8,
+        "title": "돈 룩 업",
+        "img": "https://image.tmdb.org/t/p/original/ri1eGoNoESMRKa8PXgmiBj2W3ve.jpg",
+        "detailImg": "https://image.tmdb.org/t/p/original/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg",
+        "genre": [
+            "코미디",
+            "드라마",
+            "SF"
+        ],
+        "story": "혜성 충돌까지 남은 시간은 단 6개월. 24시간 내내 뉴스와 정보는 쏟아지고 사람들은 소셜미디어에 푹 빠져있는 시대이지만 정작 이 중요한 뉴스는 대중의 주의를 끌지 못하는데...",
+        "released": 2021
+    },
+    {
+        "id": 9,
+        "title": "콜 미 바이 유어 네임",
+        "img": "https://image.tmdb.org/t/p/original/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+        "detailImg": "https://image.tmdb.org/t/p/original/hrMbAi9fPTmc6EtpyyAgDKznptu.jpg",
+        "genre": [
+            "로맨스", 
+            "드라마"
+        ],
+        "story": "17세 소년 엘리오의 가족은 여름에 손님을 맞이한다. 아버지의 보조 연구원인 24세의 올리버가 찾아오면서 엘리오는 특별한 감정을 느낀다. 처음 뵌 순간부터 동성에게 품은 사랑을 깨닫고 적대적인 태도를 취한다. 그러나 엘리오가 자신의 감정을 털어놓은 후, 두 사람은 마음이 서로 통하는 것을 깨닫게 된다.",
+        "released": 2017
+    },
+    {
+        "id": 10,
+        "title": "오펜하이머",
+        "img": "https://www.themoviedb.org/t/p/original/kAYtsVpE7q6NhLz6vKYAxOM6LmN.jpg",
+        "detailImg": "https://www.themoviedb.org/t/p/original/47lswMzoziNsRmqJkItb6IblwpD.jpg",
+        "genre": [
+            "드라마",
+            "역사"
+        ],
+        "story": "나는 이제 죽음이요, 세상의 파괴자가 되었다. 세상을 구하기 위해 세상을 파괴할 지도 모르는 선택을 해야 하는 천재 과학자의 핵개발 프로젝트.",
+        "released": 2023
+    },
+    {
+        "id": 11,
+        "title": "스파이더맨: 어크로스 더 유니버스",
+        "img": "https://image.tmdb.org/t/p/original/w9uVaOBZyX1Vgfu4AYpcMnSQ3Eu.jpg",
+        "detailImg": "https://image.tmdb.org/t/p/original/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+        "genre": [
+            "애니메이션", 
+            "액션", 
+            "모험",
+            "SF"
+        ],
+        "story": "한 명을 구할 것인가, 모두를 구할 것인가",
+        "released": 2023
+    }
+]
