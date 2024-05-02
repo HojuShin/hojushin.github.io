@@ -30,6 +30,10 @@
         ],
         "post": [
             {
+                "title": "Figma [와이어프레임-플로우차트-기능정의]",
+                "url": "https://www.figma.com/file/xnTZx4HSCCDYTTCBtg9EzI/Pro?type=design&mode=design&t=XMTWh62tiHnmFA2S-1"
+            },
+            {
                 "title": "Next.js로 풀어나가는 서버 렌더링",
                 "url": "https://velog.io/@tlsghwn/Next.js%EB%A1%9C-%ED%92%80%EC%96%B4%EB%82%98%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B2%84-%EB%A0%8C%EB%8D%94%EB%A7%81"
             },
